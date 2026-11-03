@@ -1,0 +1,10 @@
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.5
+numpy>=1.26
+pandas>=2.0
+joblib>=1.3
+scikit-learn>=1.4
+xgboost>=2.0
+# Only needed if you put a GRU (.keras) model in backend/models/:
+# tensorflow>=2.16
