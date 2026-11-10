@@ -3,7 +3,7 @@
 Patients do their physiotherapy exercises in front of a webcam. MediaPipe tracks the body, the joint angle moves a mini-game, and an ML model (or form rules) scores every rep. Patients see their own progress, streaks and badges.
 
 - **Languages:** English, हिन्दी, ਪੰਜਾਬੀ (switch at the top right, saved per account)
-- **Recovery plans:** one account can have many plans (arm now, knee later). Start a new one with "+ New recovery plan", finish old ones with "Finish this plan".
+- **Recovery plans:** one account can have many plans (arm now, knee later). Start a new one with "+ New recovery plan", finish old ones with "Finish this plan"..
 - **Body areas and exercises (7):** shoulder (raise to side, raise to front), elbow & arm (elbow bend), knee/hip/leg (mini squat, sit to stand, seated knee straightening), back (side bend)
 - **Games (3):** Bird Flight, Hand Pump, Balloon Pop. Every game works with every exercise; the patient picks one before playing.
 - **Patients describe their problem in their own words** (up to 1000 characters, any language).
